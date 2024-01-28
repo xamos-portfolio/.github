@@ -28,3 +28,10 @@ Once I chose Google for their Managed Kubernetes Service, it was an easy choice 
 
 I also decided that it would be fun to follow Infrastructure as Code to build out all of the resources needed for the project using [Terraform](https://www.terraform.io/).
 However, I recently discovered [OpenTofu](https://opentofu.org/), an open-source fork of Terraform. At the moment their features are about identical, but I decided it would be a fun experience to leverage an emerging community-fork of a well-known tool.
+
+## Following the Journey
+
+If you're curious about the reasoning behind the decisions I have made, check out the [Project Board](https://github.com/orgs/xamos-portfolio/projects/1) and the issues page on the corresponding repositories:
+- [infra](https://github.com/xamos-portfolio/infra/issues?q=)
+
+If you're curious about others' questions, check out the [Discussions](https://github.com/orgs/xamos-portfolio/discussions).
