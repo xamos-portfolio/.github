@@ -7,7 +7,7 @@ As such, this project will involve the creation of a platform to host future per
 
 Feel free to browse the [repositories](https://github.com/orgs/xamos-portfolio/repositories?type=source) to see how it is being built.
 
-If you have any suggestions for how I might improve the project or questions about any of the decisions I made, feel free to create an issue!
+If you have any suggestions for how I might improve the project or questions about any of the decisions I made, feel free to create an issue or join the [discussions](https://github.com/orgs/xamos-portfolio/discussions)!
 
 ## Technologies Used
 
